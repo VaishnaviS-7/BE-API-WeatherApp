@@ -1,0 +1,20 @@
+[
+  {
+    "id": 2,
+    "city": "Banglore",
+    "condition": "Cloudy",
+    "temperature": 72.0
+  },
+  {
+    "id": 4,
+    "city": "Mysore",
+    "condition": "humid",
+    "temperature": 22.0
+  },
+  {
+    "id": 5,
+    "city": "manglore",
+    "condition": "sunny",
+    "temperature": 72.0
+  }
+]
