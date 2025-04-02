@@ -9,7 +9,6 @@ import com.google.gson.reflect.TypeToken;
 
 public class JsonUtil {
     private static final String WEATHER_FILE = "data/weather.json";
-
     private static final Gson gson = new GsonBuilder().setPrettyPrinting().create();
 
     // === Weather methods ===
